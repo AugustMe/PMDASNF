@@ -24,7 +24,7 @@ PredSNFMDA_tool.m：main interface for running the program
 
 gaussiansimilarity.m：calculate Gaussian interaction profile kernel similarity for microRNA and disease
 
-SNF.m：fusion ofmultiple biological information networks
+SNF.m：fusion of multiple biological information networks
 
 NCPMDA.m：calculate microRNA and disease space projection socres
 
