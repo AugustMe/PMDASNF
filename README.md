@@ -6,6 +6,7 @@ Just run 'PredSNFMDA_tool.m' to produce the result.
 
 Data set：
 disease_semantic_s1.mat :  disease semantic similarity 1(383×383)
+
 disease_semantic_s2.mat :  disease semantic similarity 2(383×383)
 miRNA_function_s.mat ：microRNA functional similarity(495×495)
 interaction.mat：microRNA-disease associations  matrix(383×495)
