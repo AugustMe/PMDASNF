@@ -22,7 +22,7 @@ Write_file.m：write results to excel
 
 Operating environment：
 software：matlab 2016a or later
-processor：Intel(R) Xeon(R) CPU E5-1630 v4@3.70GHz
+processor：Intel(R) Xeon(R) CPU E5-1630 v4 @3.70GHz
 recommended memory：8G
 
 
