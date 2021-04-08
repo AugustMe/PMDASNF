@@ -1,11 +1,11 @@
 # PMDASNF
 Inferring disease-related microRNAs via PMDASNF
 
-How to use the tool?
+## How to use the tool?
 
 Just run 'PredSNFMDA_tool.m' to produce the result.
 
-Data set：
+## Data set：
 disease_semantic_s1.mat :  disease semantic similarity 1(383×383)
 
 disease_semantic_s2.mat :  disease semantic similarity 2(383×383)
@@ -18,7 +18,7 @@ disease number.xlsx : ID of all diseases
 
 miRNA number.xlsx : ID of all microRNAs
 
-Program：
+## Program：
 
 PredSNFMDA_tool.m：main interface for running the program
 
@@ -32,7 +32,7 @@ Rank.m：sorting disease-related microRNAs scores
 
 Write_file.m：write results to excel
 
-Operating environment：
+## Operating environment：
 
 software：matlab 2016a or later
 
